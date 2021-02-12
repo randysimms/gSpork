@@ -1,0 +1,103 @@
+2011-08-26 10:08:50,872 INFO  edu.cccti.gspork.GSporkRunner - Loading mapping file...
+2011-08-26 10:08:51,029 INFO  edu.cccti.gspork.GSporkRunner - ...Done
+2011-08-26 10:08:51,029 INFO  edu.cccti.gspork.GSporkRunner - Loading file of accounts...
+2011-08-26 10:08:51,037 INFO  edu.cccti.gspork.GSporkRunner - ...Done
+2011-08-26 10:08:51,038 INFO  edu.cccti.gspork.GSporkRunner - Processing accounts...
+2011-08-26 10:08:54,897 INFO  edu.cccti.gspork.GSporkRunner - ...Done
+2011-08-26 10:08:54,898 INFO  edu.cccti.gspork.GSporkRunner - 49866: Accounts processed.
+2011-08-26 10:08:54,899 INFO  edu.cccti.gspork.GSporkRunner - Preparing year 2009...
+2011-08-26 10:08:54,901 INFO  edu.cccti.gspork.GSporkRunner - 
+ Metrics by Account
+2011-08-26 10:08:54,902 INFO  edu.cccti.gspork.GSporkRunner - -------------------------------
+2011-08-26 10:08:55,518 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2009': 	7776
+2011-08-26 10:08:55,563 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2009 and Never Logged in': 	4583
+2011-08-26 10:08:55,564 INFO  edu.cccti.gspork.GSporkRunner - Deleting never-logged-in users for year 2009...
+2011-08-26 10:08:55,566 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:55,566 INFO  edu.cccti.gspork.UserDAO - Retrieving username: tageoffrion
+2011-08-26 10:08:56,012 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:56,012 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:56,013 INFO  edu.cccti.gspork.UserDAO - Retrieving username: djcullen
+2011-08-26 10:08:56,166 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:56,167 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:56,167 INFO  edu.cccti.gspork.UserDAO - Retrieving username: rpjones
+2011-08-26 10:08:56,286 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:56,287 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:56,287 INFO  edu.cccti.gspork.UserDAO - Retrieving username: rdcrowe
+2011-08-26 10:08:56,408 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:56,408 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:56,409 INFO  edu.cccti.gspork.UserDAO - Retrieving username: jbgettys
+2011-08-26 10:08:56,525 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:56,526 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:56,526 INFO  edu.cccti.gspork.UserDAO - Retrieving username: tlcheek
+2011-08-26 10:08:56,642 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:56,642 INFO  edu.cccti.gspork.UserDAO - 
+
+
+2011-08-26 10:08:56,685 INFO  edu.cccti.gspork.UserDAO - Accounts: 4583
+2011-08-26 10:08:56,685 INFO  edu.cccti.gspork.UserDAO - Deleted: 0
+2011-08-26 10:08:56,685 INFO  edu.cccti.gspork.UserDAO - Not Deleted: 6
+2011-08-26 10:08:56,686 INFO  edu.cccti.gspork.UserDAO - 
+
+
+2011-08-26 10:08:56,686 INFO  edu.cccti.gspork.GSporkRunner - Preparing year 2008...
+2011-08-26 10:08:56,720 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2008': 	3255
+2011-08-26 10:08:56,773 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2008 and Never Logged in': 	1506
+2011-08-26 10:08:56,773 INFO  edu.cccti.gspork.GSporkRunner - Deleting never-logged-in users for year 2008...
+2011-08-26 10:08:56,774 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:56,774 INFO  edu.cccti.gspork.UserDAO - Retrieving username: vpalmer
+2011-08-26 10:08:56,885 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:56,886 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:56,886 INFO  edu.cccti.gspork.UserDAO - Retrieving username: jsmith189
+2011-08-26 10:08:57,110 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:57,111 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:57,112 INFO  edu.cccti.gspork.UserDAO - Retrieving username: dgmclean
+2011-08-26 10:08:57,235 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:57,236 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:57,236 INFO  edu.cccti.gspork.UserDAO - Retrieving username: mscha
+2011-08-26 10:08:57,349 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:57,350 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:57,350 INFO  edu.cccti.gspork.UserDAO - Retrieving username: bsstoneman
+2011-08-26 10:08:57,485 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:57,486 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:57,486 INFO  edu.cccti.gspork.UserDAO - Retrieving username: jawatson
+2011-08-26 10:08:57,611 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:57,611 INFO  edu.cccti.gspork.UserDAO - 
+
+
+2011-08-26 10:08:57,666 INFO  edu.cccti.gspork.UserDAO - Accounts: 1506
+2011-08-26 10:08:57,666 INFO  edu.cccti.gspork.UserDAO - Deleted: 0
+2011-08-26 10:08:57,667 INFO  edu.cccti.gspork.UserDAO - Not Deleted: 6
+2011-08-26 10:08:57,667 INFO  edu.cccti.gspork.UserDAO - 
+
+
+2011-08-26 10:08:57,667 INFO  edu.cccti.gspork.GSporkRunner - Preparing year 2007...
+2011-08-26 10:08:57,764 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2007': 	6529
+2011-08-26 10:08:57,815 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2007 and Never Logged in': 	3473
+2011-08-26 10:08:57,816 INFO  edu.cccti.gspork.GSporkRunner - Deleting never-logged-in users for year 2007...
+2011-08-26 10:08:57,817 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:57,817 INFO  edu.cccti.gspork.UserDAO - Retrieving username: nlavery
+2011-08-26 10:08:57,929 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:57,929 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:57,930 INFO  edu.cccti.gspork.UserDAO - Retrieving username: bcwilliams
+2011-08-26 10:08:58,040 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:58,040 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:58,041 INFO  edu.cccti.gspork.UserDAO - Retrieving username: cnmiller
+2011-08-26 10:08:58,164 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:58,164 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:58,165 INFO  edu.cccti.gspork.UserDAO - Retrieving username: jlgreene
+2011-08-26 10:08:58,299 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:58,300 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:58,300 INFO  edu.cccti.gspork.UserDAO - Retrieving username: jkcaskey
+2011-08-26 10:08:58,412 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:58,413 INFO  edu.cccti.gspork.UserDAO - 
+2011-08-26 10:08:58,413 INFO  edu.cccti.gspork.UserDAO - Retrieving username: flstewart
+2011-08-26 10:08:58,580 INFO  edu.cccti.gspork.UserDAO - ...User not Found!!!
+2011-08-26 10:08:58,580 INFO  edu.cccti.gspork.UserDAO - 
+
+
+2011-08-26 10:08:58,629 INFO  edu.cccti.gspork.UserDAO - Accounts: 3473
+2011-08-26 10:08:58,630 INFO  edu.cccti.gspork.UserDAO - Deleted: 0
+2011-08-26 10:08:58,630 INFO  edu.cccti.gspork.UserDAO - Not Deleted: 6
+2011-08-26 10:08:58,630 INFO  edu.cccti.gspork.UserDAO - 
+
+

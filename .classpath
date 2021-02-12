@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="img"/>
+	<classpathentry exported="true" kind="var" path="Google Data Plugin">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Dev/gdata/java/doc/"/>
+			<attribute name="plugin_id" value="com.google.gdata"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/lib/gdata-appsforyourdomain-1.0.jar" sourcepath="C:/Dev/gdata/java/src"/>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/lib/gdata-client-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/lib/gdata-appsforyourdomain-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/lib/gdata-media-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/lib/gdata-client-meta-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/lib/gdata-core-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/deps/google-collect-1.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/deps/jsr305.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/extlibs/GoogleDataExtDependencies/reporting-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Dev/extlibs/betterbeansbinding-1.3.0-all.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/extlibs/guava-r09/guava-r09.jar" sourcepath="C:/Dev/extlibs/guava-r09/guava-src-r09.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Dev/extlibs/guava-r09/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Dev/gdata/java/sample/appsforyourdomain/lib/AppsForYourDomainClient.jar" sourcepath="C:/Dev/gdata/java/"/>
+	<classpathentry kind="lib" path="C:/Dev/extlibs/beanio-1.1.0/beanio.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/extlibs/slf4j-1.6.2/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/extlibs/logback-0.9.29/logback-classic-0.9.29.jar"/>
+	<classpathentry kind="lib" path="C:/Dev/extlibs/logback-0.9.29/logback-core-0.9.29.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

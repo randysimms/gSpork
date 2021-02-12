@@ -1,0 +1,34 @@
+<beanio xmlns="http://www.beanio.org/2011/01" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.beanio.org/2011/01 http://www.beanio.org/2011/01/mapping.xsd">
+
+  <stream name="GoogleDataReporting" format="csv">
+    <record name="user" class="edu.cccti.gspork.bean.UserBean">
+      <field name="reportDate" />
+      <field name="accountID" />
+      <field name="accountName" />
+      <field name="status" />
+      <field name="quotaInMB" />
+      
+      <field name="usageInBytes" />
+      <field name="primaryAccountID" />
+      <field name="primaryAccountName" />
+      <field name="creationDate" />
+      <field name="lastLoginDate" />
+      
+      <field name="lastWebMailDate" />     
+      <field name="surname" />
+      <field name="givenName" />
+      <field name="serviceTier" />
+      <field name="channel" />
+      
+      <field name="suspensionReason" />
+      <field name="lastPOPDate" />
+      <field name="creationTime" />
+      <field name="lastLoginTime" />
+      <field name="lastWebMailTime" />
+      
+      <field name="lastPOPTime" />
+    </record>
+  </stream>
+</beanio>

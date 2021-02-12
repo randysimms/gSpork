@@ -1,0 +1,107 @@
+2011-08-26 09:31:06,360 INFO  edu.cccti.gspork.GSporkRunner - Gathering users...
+2011-08-26 09:31:28,870 INFO  edu.cccti.gspork.GSporkRunner - ...Done
+2011-08-26 09:31:28,887 INFO  edu.cccti.gspork.GSporkRunner - Loading mapping file...
+2011-08-26 09:31:29,267 INFO  edu.cccti.gspork.GSporkRunner - ...Done
+2011-08-26 09:31:29,268 INFO  edu.cccti.gspork.GSporkRunner - Loading file of accounts...
+2011-08-26 09:31:29,277 INFO  edu.cccti.gspork.GSporkRunner - ...Done
+2011-08-26 09:31:29,277 INFO  edu.cccti.gspork.GSporkRunner - Processing accounts...
+2011-08-26 09:31:32,554 INFO  edu.cccti.gspork.GSporkRunner - ...Done
+2011-08-26 09:31:32,555 INFO  edu.cccti.gspork.GSporkRunner - 49866: Accounts processed.
+2011-08-26 09:31:32,559 INFO  edu.cccti.gspork.GSporkRunner - 
+ Metrics by Account
+2011-08-26 09:31:32,559 INFO  edu.cccti.gspork.GSporkRunner - -------------------------------
+2011-08-26 09:31:32,617 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2009': 	7776
+2011-08-26 09:31:32,708 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2009 and Never Logged in': 	4583
+2011-08-26 09:31:32,779 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2008': 	3255
+2011-08-26 09:31:32,964 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2008 and Never Logged in': 	1506
+2011-08-26 09:31:33,017 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2007': 	6529
+2011-08-26 09:31:33,077 INFO  edu.cccti.gspork.GSporkRunner - 	 Accounts for 'created in 2007 and Never Logged in': 	3473
+2011-08-26 09:31:33,080 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: nlavery
+2011-08-26 09:31:33,518 INFO  edu.cccti.gspork.UserDAO - Deleting username: nlavery...
+2011-08-26 09:31:37,503 INFO  edu.cccti.gspork.UserDAO - ...Deleted nlavery
+2011-08-26 09:31:37,504 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: bcwilliams
+2011-08-26 09:31:37,640 INFO  edu.cccti.gspork.UserDAO - Deleting username: bcwilliams...
+2011-08-26 09:31:41,258 INFO  edu.cccti.gspork.UserDAO - ...Deleted bcwilliams
+2011-08-26 09:31:41,258 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: cnmiller
+2011-08-26 09:31:41,401 INFO  edu.cccti.gspork.UserDAO - Deleting username: cnmiller...
+2011-08-26 09:31:47,995 INFO  edu.cccti.gspork.UserDAO - ...Deleted cnmiller
+2011-08-26 09:31:47,995 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: jlgreene
+2011-08-26 09:31:48,131 INFO  edu.cccti.gspork.UserDAO - Deleting username: jlgreene...
+2011-08-26 09:31:51,301 INFO  edu.cccti.gspork.UserDAO - ...Deleted jlgreene
+2011-08-26 09:31:51,301 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: jkcaskey
+2011-08-26 09:31:51,450 INFO  edu.cccti.gspork.UserDAO - Deleting username: jkcaskey...
+2011-08-26 09:31:54,659 INFO  edu.cccti.gspork.UserDAO - ...Deleted jkcaskey
+2011-08-26 09:31:54,659 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: flstewart
+2011-08-26 09:31:54,818 INFO  edu.cccti.gspork.UserDAO - Deleting username: flstewart...
+2011-08-26 09:31:58,045 INFO  edu.cccti.gspork.UserDAO - ...Deleted flstewart
+2011-08-26 09:31:58,046 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: jlkaylor
+2011-08-26 09:31:58,417 INFO  edu.cccti.gspork.UserDAO - Deleting username: jlkaylor...
+2011-08-26 09:32:02,103 INFO  edu.cccti.gspork.UserDAO - ...Deleted jlkaylor
+2011-08-26 09:32:02,104 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: tparsons
+2011-08-26 09:32:02,293 INFO  edu.cccti.gspork.UserDAO - Deleting username: tparsons...
+2011-08-26 09:32:04,798 INFO  edu.cccti.gspork.UserDAO - ...Deleted tparsons
+2011-08-26 09:32:04,799 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: bjsherrill
+2011-08-26 09:32:04,932 INFO  edu.cccti.gspork.UserDAO - Deleting username: bjsherrill...
+2011-08-26 09:32:10,137 INFO  edu.cccti.gspork.UserDAO - ...Deleted bjsherrill
+2011-08-26 09:32:10,138 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: rkstein
+2011-08-26 09:32:10,290 INFO  edu.cccti.gspork.UserDAO - Deleting username: rkstein...
+2011-08-26 09:32:15,805 INFO  edu.cccti.gspork.UserDAO - ...Deleted rkstein
+2011-08-26 09:32:15,805 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: zmnemeth
+2011-08-26 09:32:15,942 INFO  edu.cccti.gspork.UserDAO - Deleting username: zmnemeth...
+2011-08-26 09:32:19,681 INFO  edu.cccti.gspork.UserDAO - ...Deleted zmnemeth
+2011-08-26 09:32:19,681 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: albethea
+2011-08-26 09:32:19,807 INFO  edu.cccti.gspork.UserDAO - Deleting username: albethea...
+2011-08-26 09:32:23,126 INFO  edu.cccti.gspork.UserDAO - ...Deleted albethea
+2011-08-26 09:32:23,127 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: rmrhodes
+2011-08-26 09:32:23,259 INFO  edu.cccti.gspork.UserDAO - Deleting username: rmrhodes...
+2011-08-26 09:32:28,138 INFO  edu.cccti.gspork.UserDAO - ...Deleted rmrhodes
+2011-08-26 09:32:28,138 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: rahofmann
+2011-08-26 09:32:28,283 INFO  edu.cccti.gspork.UserDAO - Deleting username: rahofmann...
+2011-08-26 09:32:31,693 INFO  edu.cccti.gspork.UserDAO - ...Deleted rahofmann
+2011-08-26 09:32:31,694 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: bnhowell
+2011-08-26 09:32:31,830 INFO  edu.cccti.gspork.UserDAO - Deleting username: bnhowell...
+2011-08-26 09:32:37,029 INFO  edu.cccti.gspork.UserDAO - ...Deleted bnhowell
+2011-08-26 09:32:37,029 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: bkrector
+2011-08-26 09:32:37,169 INFO  edu.cccti.gspork.UserDAO - Deleting username: bkrector...
+2011-08-26 09:32:41,521 INFO  edu.cccti.gspork.UserDAO - ...Deleted bkrector
+2011-08-26 09:32:41,522 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: tdladd
+2011-08-26 09:32:41,671 INFO  edu.cccti.gspork.UserDAO - Deleting username: tdladd...
+2011-08-26 09:32:45,534 INFO  edu.cccti.gspork.UserDAO - ...Deleted tdladd
+2011-08-26 09:32:45,534 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: hdsmith
+2011-08-26 09:32:45,731 INFO  edu.cccti.gspork.UserDAO - Deleting username: hdsmith...
+2011-08-26 09:32:49,110 INFO  edu.cccti.gspork.UserDAO - ...Deleted hdsmith
+2011-08-26 09:32:49,111 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: ccbyers
+2011-08-26 09:32:49,251 INFO  edu.cccti.gspork.UserDAO - Deleting username: ccbyers...
+2011-08-26 09:32:54,032 INFO  edu.cccti.gspork.UserDAO - ...Deleted ccbyers
+2011-08-26 09:32:54,032 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: jhroberts
+2011-08-26 09:32:54,170 INFO  edu.cccti.gspork.UserDAO - Deleting username: jhroberts...
+2011-08-26 09:32:56,611 INFO  edu.cccti.gspork.UserDAO - ...Deleted jhroberts
+2011-08-26 09:32:56,611 INFO  edu.cccti.gspork.UserDAO - 
+Retrieving username: elgreer
+2011-08-26 09:32:56,759 INFO  edu.cccti.gspork.UserDAO - Deleting username: elgreer...
+2011-08-26 09:32:59,868 INFO  edu.cccti.gspork.UserDAO - ...Deleted elgreer
+2011-08-26 09:32:59,960 INFO  edu.cccti.gspork.UserDAO - 
+
+Accounts: 3473
+2011-08-26 09:32:59,961 INFO  edu.cccti.gspork.UserDAO - Deleted: 21
+2011-08-26 09:32:59,961 INFO  edu.cccti.gspork.UserDAO - Not Deleted: 0
